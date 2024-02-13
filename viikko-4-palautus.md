@@ -32,6 +32,8 @@ Valitsin paketiksi oletuksena olevan Shared CPU Basic planin, tarjolla oli myös
 
 Autentikointimenetelmäksi valitsin salasanan sekä annoin juuri luodun virtuaalikoneen nimeksi annoin Muumi (geneerinen nimi on hyvä). Pienen odottelun jälkeen asennus oli valmis ja sain samalla myös koneen IP-osoitteen:
 
+![Add file: Upload](IP.png)
+
 
 
 
