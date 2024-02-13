@@ -14,7 +14,7 @@ Teoriasta käytäntöön pilvipalvelimen avulla (h4). Susannalehto.fi.  Luettavi
 Karvinen, Tero. 2012. First Steps on a New Virtual Private Server – an Example on DigitalOcean and Ubuntu 16.04 LTS. Luettavissa: https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/ Luettu Helmikuussa 2024
 
 
-## a) Pilvipalvelimen vuokraus ja asennus
+## a) Pilvipalvelin
 
 Päätin käyttää tehtävässä pilvipalvelun hankkimiseen DigitalOcean palvelua, GitHub Educationin yhdistämällä DigitalOceaniin sai 200 dollaria kredittejä. Rekisteröitymis sekä maksuasioiden hoitamisen jälkeen aloitin varsinaisen virtuaalikoneen (droplet) asennuksen. 
 
@@ -23,6 +23,8 @@ Alue on hyvä valita mahdollisimman läheltä tiedonsiirron nopeuden kannalta jo
 ![Add file: Upload](datakeskus.png)
 
 Käyttöjärjestelmäksi valitsin Debianin viimeisimmän version, 12 x64: 
+
+![Add file: Upload](debian.png)
 
 
 
