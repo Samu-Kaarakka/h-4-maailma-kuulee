@@ -20,4 +20,10 @@ Päätin käyttää tehtävässä pilvipalvelun hankkimiseen DigitalOcean palvel
 
 Alue on hyvä valita mahdollisimman läheltä tiedonsiirron nopeuden kannalta joten päädyin valitsemaan datakeskuksen sijainniksi Amsterdamin:
 
+![Add file: Upload](datakeskus.png)
+
+Käyttöjärjestelmäksi valitsin Debianin viimeisimmän version, 12 x64: 
+
+
+
  
