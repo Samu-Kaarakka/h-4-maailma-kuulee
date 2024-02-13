@@ -26,7 +26,9 @@ Käyttöjärjestelmäksi valitsin Debianin viimeisimmän version, 12 x64:
 
 ![Add file: Upload](debian.png)
 
-Valitsin paketiksi oletuksena olevan Shared CPU Basic planin, tarjolla oli myös kalliimpia paketteja, mutta tähän tehtävään kyseinen peruspaketti ajaa asiansa mainiosti. 
+Valitsin paketiksi oletuksena olevan Shared CPU Basic planin, tarjolla oli myös kalliimpia paketteja, mutta tähän tehtävään kyseinen peruspaketti ajaa asiansa mainiosti: 
+
+![Add file: Upload](paketti.png)
 
 
  
