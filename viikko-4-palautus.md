@@ -36,7 +36,15 @@ Autentikointimenetelmäksi valitsin salasanan sekä annoin juuri luodun virtuaal
 
 ## Domain-nimen vuokraus
 
-Vuokrasin domain-nimen Namecheapilta, koska githubin kautta sain .me-päätteisen domainin käyttööni maksutta:
+Vuokrasin domain-nimen Namecheapilta, koska githubin kautta sain .me-päätteisen domainin käyttööni vuoden ajaksi maksutta:
+
+![Add file: Upload](domain-nimi.png)
+
+Tämän jälkeen ohjasin juuri hankitun domainnimen samukoo.me osoittamaan DigitalOceanilta hankitulle virtuaalipalvelimelle. Tämän tein menemällä kohtaan Domain List -> Advanced DNS. Poistin siellä jo valmiit olevat host-tiedostot sekä kohdasta add new record lisäsin uudet tiedostot, jotka osoittavat DigitalOceanilta hankkimaani virtuaalipalvelimeen, value kohtaan laitoin juuri DigitalOceanilta hankkiman virtuaalipalvelimeni IP-osoitteen:
+
+![Add file: Upload](domain-records.png)
+
+
 
 
 
